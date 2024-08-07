@@ -43,10 +43,13 @@ El análisis del dataset de detenidos del Departamento de Policía de Baltimore 
 
 Para más detalles sobre el código y los resultados, por favor, consulta los archivos en el repositorio.
 
+  - 1_TFM_DATOS.ipynb
+  - 2_TFM_VISUALIZACION.ipynb
+  - 3_TFM_PRED.ipynb
+    
 ## Instalación y Uso
 
-Para reproducir el análisis y los resultados, sigue estos pasos:
-
-1. Clona el repositorio:
+1. Puedes Clonar el repositorio:
+   
    ```bash
    git clone https://github.com/TonyVargas777/Baltimore_Police_Department
