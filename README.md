@@ -46,14 +46,19 @@ Para más detalles sobre el código y los resultados, por favor, consulta los ar
   - 1_TFM_DATOS.ipynb
   - 2_TFM_VISUALIZACION.ipynb
   - 3_TFM_PRED.ipynb
-    
+
 ## Instalación y Uso
 
 1. Puedes Clonar el repositorio:
    
    ```bash
    git clone https://github.com/TonyVargas777/Baltimore_Police_Department
+<<<<<<< HEAD
    
+=======
+
+
+>>>>>>> 7e9168b8e0d422d530a65e5cd468afa40d334089
 ### Contacto
 Si tienes preguntas, sugerencias o simplemente quieres saludar, no dudes en contactarme:
 - **Nombre:** Tony Vargas
