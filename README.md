@@ -3,7 +3,8 @@
 <td> <img src=https://www.baltimorepolice.org/themes/custom/bpd/images/bpd_logo.png alt="Drawing" style="height: 250px;"/> </td>
 <td> <img src=https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/1bc3aff5-0d6a-4c0b-8ed0-5716ca30ab3b/fbbc7a604f327cfa8a7bbe614a89be13a246d266.jpg?host=wbd-images.prod-vod.h264.io&partner=beamcom style="height: 250px;"/> </td>
 </tr></table>
-# Análisis y Modelado del Dataset de Detenidos del Departamento de Policía de Baltimore (2013-2016)
+
+## Análisis y Modelado del Dataset de Detenidos del Departamento de Policía de Baltimore (2013-2016)
 
 Este repositorio contiene un análisis exhaustivo del dataset de detenidos por el Departamento de Policía de Baltimore entre 2013 y 2016. El proyecto se enfoca en tres áreas clave: limpieza de datos, visualización de datos y machine learning. A continuación, se describe el enfoque y los resultados obtenidos en cada una de estas áreas.
 
@@ -46,21 +47,18 @@ Para más detalles sobre el código y los resultados, por favor, consulta los ar
   - 1_TFM_DATOS.ipynb
   - 2_TFM_VISUALIZACION.ipynb
   - 3_TFM_PRED.ipynb
-
+    
 ## Instalación y Uso
 
 1. Puedes Clonar el repositorio:
    
    ```bash
    git clone https://github.com/TonyVargas777/Baltimore_Police_Department
-<<<<<<< HEAD
    
-=======
+## Contacto
 
-
->>>>>>> 7e9168b8e0d422d530a65e5cd468afa40d334089
-### Contacto
 Si tienes preguntas, sugerencias o simplemente quieres saludar, no dudes en contactarme:
+
 - **Nombre:** Tony Vargas
 - **Correo Electrónico:** tonacovargas@hotmail.com
 - **Sitio Web:** [www.tonyvargasdev.com](https://www.tonyvargasdev.com)
